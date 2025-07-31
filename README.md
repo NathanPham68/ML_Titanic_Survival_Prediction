@@ -1,4 +1,4 @@
-# Titanic_Survival_Prediction
+# [ML] Who Survived the Titanic? - Maritime Disaster Analysis
 
 <img width="1200" height="632" alt="image" src="https://github.com/user-attachments/assets/44685331-ff0c-428e-9863-abdcc746ea61" />
 
