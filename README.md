@@ -1,4 +1,7 @@
 # Titanic_Survival_Prediction
+
+<img width="1200" height="632" alt="image" src="https://github.com/user-attachments/assets/44685331-ff0c-428e-9863-abdcc746ea61" />
+
 ## I) Introduction
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
